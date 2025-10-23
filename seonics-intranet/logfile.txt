@@ -1,0 +1,10 @@
+S3 file 'temp_data_holder/mftsortkey/202510101325-07-1_2-marketing-17910.gz' has been created 
+S3 file 'temp_data_holder/mftsortkey/202510101325-07-1_2-marketing-14455.gz' has been created 
+S3 file 'temp_data_holder/mftsortkey/202510101326-07-1_2-marketing-13879.gz' has been created 
+S3 file 'temp_data_holder/mftsortkey/202510101326-07-1_2-marketing-10896.gz' has been created 
+S3 file 'temp_data_holder/mftsortkey/202510101327-07-1_2-marketing-7745.gz' has been created 
+S3 file 'temp_data_holder/mftsortkey/202510101327-07-1_2-marketing-5951.gz' has been created 
+S3 file 'temp_data_holder/mftsortkey/202510101328-07-1_2-marketing-5591.gz' has been created 
+S3 file 'temp_data_holder/mftsortkey/202510101331-07-1_2-marketing-4990.gz' has been created 
+S3 file 'temp_data_holder/mftsortkey/202510101333-07-1_2-marketing-4096.gz' has been created 
+S3 file 'temp_data_holder/mftsortkey/202510101335-07-1_2-marketing-3980.gz' has been created 
